@@ -71,3 +71,13 @@ Special thanks to The Developer for their support and guidance throughout this p
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/bhushan-gawali/) or check out my [Portfolio](https://lnkd.in/gF5vsKGC) for more projects.
 
+## Project Video
+
+Watch the overview of the Olympics Performance Analytics project in the video below:
+
+<video width="800" controls>
+  <source src="URL_TO_YOUR_VIDEO" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+
