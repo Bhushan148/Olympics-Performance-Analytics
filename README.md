@@ -71,3 +71,12 @@ Special thanks to The Developer for their support and guidance throughout this p
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/bhushan-gawali/) or check out my [Portfolio](https://lnkd.in/gF5vsKGC) for more projects.
 
+## Project Images
+
+![Page 1](https://github.com/Bhushan148/Olympics-Performance-Analytics/raw/main/Background%20And%20images/Page%201.png)
+![Page 2](https://github.com/Bhushan148/Olympics-Performance-Analytics/raw/main/Background%20And%20images/Page%202.png)
+![Page 3](https://github.com/Bhushan148/Olympics-Performance-Analytics/raw/main/Background%20And%20images/Page%203.png)
+![Page 4](https://github.com/Bhushan148/Olympics-Performance-Analytics/raw/main/Background%20And%20images/Page%204.png)
+![Page 5](https://github.com/Bhushan148/Olympics-Performance-Analytics/raw/main/Background%20And%20images/Page%205.png)
+
+
